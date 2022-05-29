@@ -70,6 +70,7 @@ List of reference,algorithms, applications in RS data fusions (**contribution ar
 - Spatiotemporal Image Fusion in Remote Sensing ([Belgiu et al.2019](https://www.mdpi.com/2072-4292/11/7/818))
 - Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources([Zhu et al.2019](https://ieeexplore-ieee-org.proxy.library.cornell.edu/document/8113128/references#references))
 - [Remote Sensing Image Scene Classification Meets Deep Learning: Challenges, Methods, Benchmarks, and Opportunities](https://ieeexplore-ieee-org.proxy.library.cornell.edu/document/9127795)
+- Comparative Analysis on Deep Learning based Pan-sharpening of Very High-Resolution Satellite Images([Wang et al. 2021](https://dergipark.org.tr/en/pub/ijegeo/issue/58842/834760)
 
 ### Basic Concept
 **DOD:** Data fusion is a multilevel, multifaceted process dealing with the automatic detection, association, correlation, estimation, and combination of data and information from multiple source.
